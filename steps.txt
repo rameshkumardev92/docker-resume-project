@@ -1,0 +1,8 @@
+Steps
+1. Created a dockerfile  to containerize the resume website using docker.
+2. Build a custom docker image using Apache HTTP server to host the static website.
+3. Tagged and pushed the docker image to docker hub for image storage and distribution.
+4. Deployed the docker container on an Amazon Web services EC2 instance.
+5. Configured port mapping to make the  application accessible via the EC2 Public IP
+6. Verified sussessfull deployment by accessing the website through a web Browser.
+7. Managed Docker containers and images using Docker CLI commands.
